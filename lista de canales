@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1,group-title="ENTRETENIMIENTO" tvg-logo="https://adictosalatele.com/logos/aztecacinema.png", CINEMA
+
+https://77mckejqcowtd1p1.azcdn728.net:8443/hls/nxlhxl.m3u8?s=FnmGpoHrsIGw7mF9gxWryA&e=1628281590
+
+#EXTINF:-1,group-title="START" tvg-logo="https://adictosalatele.com/logos/star-hits.png", START HIT
+
+https://77mckejqcowtd1p1.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=qZzBO-MtlByVFOq1JMJGWg&e=1628281719
+
+#EXTINF:-1,group-title="HBO" tvg-logo="https://adictosalatele.com/logos/star-hits.png", HBO SIGNATURE
+
+https://77mckejqcowtd1p1.azcdn728.net:8443/hls/g05mnm.m3u8?s=z6t2XNzThO7a-q2FDHbDgQ&e=1628281825
